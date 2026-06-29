@@ -18,3 +18,5 @@ Allows you to pick selected commits from other branches
 ### Git rebase (advanced)
 
 
+### Git Status
+tells me my current branch and what to do.
