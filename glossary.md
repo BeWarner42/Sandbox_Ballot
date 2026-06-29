@@ -29,3 +29,15 @@ git cherry-pick <COMMIT_HASH>
 
 ### Git Status
 tells me my current branch and what to do.
+
+## Git Remote
+Online repository for projects
+
+### Git Fetch
+Asking the server whether there are any changes in the history
+
+### Git Pull
+Download changes on the remote repository and merge with local files
+
+### Git Push
+Push to upload your changes
